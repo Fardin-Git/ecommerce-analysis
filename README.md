@@ -1,2 +1,13 @@
 # ecommerce-analysis
-E-Commerce Sales Analyse mithilfe von Python, SQL und Power BI
+
+## Ordnerstruktur
+- data/: Rohdaten und bereinigte Daten
+- notebooks/: Python-Notebooks
+- database/: SQLite Datenbank
+- powerbi/: Power BI Dashboard
+- sql/: SQL-Abfragen
+
+## Tools
+- Python (Pandas, NumPy, Matplotlib)
+- SQLite
+- Power BI
