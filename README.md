@@ -1,11 +1,11 @@
 # ecommerce-analysis
 
-## Ordnerstruktur
-- data/: Rohdaten und bereinigte Daten
-- notebooks/: Python-Notebooks
-- database/: SQLite Datenbank
-- powerbi/: Power BI Dashboard
-- sql/: SQL-Abfragen
+## Folder Structure
+- data: Raw and cleaned data
+- notebooks: Python-Notebooks
+- database: SQLite database
+- powerbi: Power BI Dashboard
+- sql: SQL-queries
 
 ## Tools
 - Python (Pandas, NumPy, Matplotlib)
