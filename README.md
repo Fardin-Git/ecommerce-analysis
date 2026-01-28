@@ -7,7 +7,7 @@
   4. Lastly, all relevant data sets are appropriately visualized in Power BI.
 
 ## Folder Structure
-- data: Raw and cleaned data
+- data: Raw data, cleaned data and Power BI data
 - notebooks: Python-Notebooks
 - database: SQLite database
 - powerbi: Power BI Dashboard
