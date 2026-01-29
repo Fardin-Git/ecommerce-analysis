@@ -17,3 +17,6 @@
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQLite
 - Power BI
+
+## Conclusion
+- See end of notebook "02_analysis"
