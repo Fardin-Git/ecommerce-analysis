@@ -19,4 +19,4 @@
 - Power BI
 
 ## Conclusion
-- See end of notebook "02_analysis"
+- See end of notebook "02_analysis".
